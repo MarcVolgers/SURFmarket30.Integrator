@@ -1,0 +1,7 @@
+D:\Projects\ZandbakUnmanaged\SurfMarket30Integrator\Surfmarket30Shared\bin\Release\SURF.Surfmarket30.Shared.dll
+D:\Projects\ZandbakUnmanaged\SurfMarket30Integrator\Surfmarket30Shared\bin\Release\SURF.Surfmarket30.Shared.pdb
+D:\Projects\ZandbakUnmanaged\SurfMarket30Integrator\Surfmarket30Shared\bin\Release\Newtonsoft.Json.dll
+D:\Projects\ZandbakUnmanaged\SurfMarket30Integrator\Surfmarket30Shared\bin\Release\Newtonsoft.Json.xml
+D:\Projects\ZandbakUnmanaged\SurfMarket30Integrator\Surfmarket30Shared\obj\Release\SURF.Surfmarket30.Shared.csproj.CoreCompileInputs.cache
+D:\Projects\ZandbakUnmanaged\SurfMarket30Integrator\Surfmarket30Shared\obj\Release\SURF.Surfmarket30.Shared.dll
+D:\Projects\ZandbakUnmanaged\SurfMarket30Integrator\Surfmarket30Shared\obj\Release\SURF.Surfmarket30.Shared.pdb

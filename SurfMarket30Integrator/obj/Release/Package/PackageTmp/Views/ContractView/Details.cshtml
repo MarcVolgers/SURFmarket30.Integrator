@@ -1,0 +1,121 @@
+﻿@model SURF.Surfmarket30.Shared.Models.Contract
+
+@{
+    ViewBag.Title = "Contract";
+}
+
+<h2>View</h2>
+
+<div>
+    <h4>Contract</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Revisie​)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Revisie​)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DatumStart​)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DatumStart​)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DatumEind​)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DatumEind​)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DatumGetekend)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DatumGetekend)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Leverancier​)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Leverancier.Name​)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Fabrikant​)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fabrikant.Name​)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ContractWaarde)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ContractWaarde)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ContactOndertekenaar​)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ContactOndertekenaar.Name​)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ContactBeheerder​)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ContactBeheerder.Name​)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UserBeheerder​)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserBeheerder​.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UserAuteur​)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserAuteur​.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DocumentUrl)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DocumentUrl)
+        </dd>
+
+    </dl>
+</div>
+<p>   
+    @Html.ActionLink("Back to List", "Index")
+</p>

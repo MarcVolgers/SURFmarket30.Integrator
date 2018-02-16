@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SURF.Surfmarket30.Integrator</name>
+    </assembly>
+    <members>
+        <member name="T:SURF.SurfMarket30.Integrator.WebApiConfig">
+            <summary>
+            The api configuration
+            </summary>
+        </member>
+        <member name="M:SURF.SurfMarket30.Integrator.WebApiConfig.Register(System.Web.Http.HttpConfiguration)">
+            <summary>
+            Register the config
+            </summary>
+            <param name="config"></param>
+        </member>
+        <member name="T:SURF.SurfMarket30.Integrator.Controllers.HomeController">
+            <summary>
+            The home controller
+            </summary>
+        </member>
+        <member name="M:SURF.SurfMarket30.Integrator.Controllers.HomeController.Index">
+            <summary>
+            The index
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SURF.SurfMarket30.Integrator.Controllers.HomeController.About">
+            <summary>
+            About this applicatcation
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SURF.SurfMarket30.Integrator.Controllers.HomeController.Contact">
+            <summary>
+            Contact info
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:SURF.SurfMarket30.Integrator.MvcApplication">
+            <summary>
+            This application
+            </summary>
+        </member>
+        <member name="M:SURF.SurfMarket30.Integrator.MvcApplication.Application_Start">
+            <summary>
+            Start method of this application
+            </summary>
+        </member>
+        <member name="T:SURF.Surfmarket30.Integrator.SwaggerConfig">
+            <summary>
+            The swagger configuration
+            </summary>
+        </member>
+        <member name="M:SURF.Surfmarket30.Integrator.SwaggerConfig.Register">
+            <summary>
+            Register the swagger config
+            </summary>
+        </member>
+        <member name="T:SURF.Surfmarket30.Integrator.Controllers.ContractController">
+            <summary>
+            Controller for contract api calls.
+            </summary>
+        </member>
+        <member name="M:SURF.Surfmarket30.Integrator.Controllers.ContractController.#ctor">
+            <summary>
+            Instance
+            </summary>
+        </member>
+        <member name="M:SURF.Surfmarket30.Integrator.Controllers.ContractController.Get(SURF.Surfmarket30.Integrator.Controllers.ContractRequest)">
+            <summary>
+            Get contracts by request.
+            </summary>
+            <param name="request">The requestobject,  a value for 'Role' is requiered.</param>
+            <returns></returns>
+        </member>
+        <member name="M:SURF.Surfmarket30.Integrator.Controllers.ContractController.GetExampleContractRequest">
+            <summary>
+            Get an example contract request.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:SURF.Surfmarket30.Integrator.Controllers.ContractRequest">
+            <summary>
+            The request model for a contract
+            </summary>
+        </member>
+        <member name="P:SURF.Surfmarket30.Integrator.Controllers.ContractRequest.Id">
+            <summary>
+            The id of a contract
+            </summary>
+        </member>
+        <member name="P:SURF.Surfmarket30.Integrator.Controllers.ContractRequest.InstituteId">
+            <summary>
+            The id of an institute
+            </summary>
+        </member>
+        <member name="P:SURF.Surfmarket30.Integrator.Controllers.ContractRequest.Role">
+            <summary>
+            The role of the requester
+            </summary>
+        </member>
+        <member name="P:SURF.Surfmarket30.Integrator.Controllers.ContractRequest.ContractStatuses">
+            <summary>
+            List of statuses
+            </summary>
+        </member>
+        <member name="P:SURF.Surfmarket30.Integrator.Controllers.ContractRequest.ContractTypes">
+            <summary>
+            List of contract types
+            </summary>
+        </member>
+        <member name="P:SURF.Surfmarket30.Integrator.Controllers.ContractRequest.DocumentTypes">
+            <summary>
+            List of document types
+            </summary>
+        </member>
+        <member name="P:SURF.Surfmarket30.Integrator.Controllers.ContractRequest.Or">
+            <summary>
+            By default false, if true then any of the properties that are not null apply. If false then all of the properties that are not null apply
+            </summary>
+        </member>
+        <member name="T:SURF.Surfmarket30.Integrator.Controllers.ContractViewController">
+            <summary>
+            The view of the contract controller
+            </summary>
+        </member>
+        <member name="M:SURF.Surfmarket30.Integrator.Controllers.ContractViewController.#ctor">
+            <summary>
+            Instance
+            </summary>
+        </member>
+        <member name="M:SURF.Surfmarket30.Integrator.Controllers.ContractViewController.Index">
+            <summary>
+            The index page
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SURF.Surfmarket30.Integrator.Controllers.ContractViewController.Details(System.Int32)">
+            <summary>
+            The details page
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

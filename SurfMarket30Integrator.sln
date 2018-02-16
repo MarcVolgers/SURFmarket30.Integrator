@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SURF.Surfmarket30.Integrator", "SurfMarket30Integrator\SURF.Surfmarket30.Integrator.csproj", "{A816DC5D-DF35-44F2-A9D1-6C1E0EA29517}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurfMarket30Integrator.Tests", "SurfMarket30Integrator.Tests\SurfMarket30Integrator.Tests.csproj", "{B2E2630B-692B-4669-9A30-12C226EF0122}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SURF.Surfmarket30.Shared", "Surfmarket30Shared\SURF.Surfmarket30.Shared.csproj", "{2BF6C96C-50E0-4F38-8F95-DEBEE0BA0748}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SURF.Surfmarket30.Data", "SURF.Surfmarket30.Data\SURF.Surfmarket30.Data.csproj", "{2676CD1F-712C-47DD-8C57-01EB6A4E212A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SURF.Surfmarket30.MockupData", "SURF.Surfmarket30.MockupData\SURF.Surfmarket30.MockupData.csproj", "{7F531077-0950-4547-A844-173BF77AACF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SURF.Surfmarket30.IntegratorUI", "SURF.Surfmarket30.IntegratorUI\SURF.Surfmarket30.IntegratorUI.csproj", "{7C05F887-0C0E-4E03-ADDB-EBF6C2928229}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A816DC5D-DF35-44F2-A9D1-6C1E0EA29517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A816DC5D-DF35-44F2-A9D1-6C1E0EA29517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A816DC5D-DF35-44F2-A9D1-6C1E0EA29517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A816DC5D-DF35-44F2-A9D1-6C1E0EA29517}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2E2630B-692B-4669-9A30-12C226EF0122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E2630B-692B-4669-9A30-12C226EF0122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E2630B-692B-4669-9A30-12C226EF0122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E2630B-692B-4669-9A30-12C226EF0122}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BF6C96C-50E0-4F38-8F95-DEBEE0BA0748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF6C96C-50E0-4F38-8F95-DEBEE0BA0748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF6C96C-50E0-4F38-8F95-DEBEE0BA0748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF6C96C-50E0-4F38-8F95-DEBEE0BA0748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2676CD1F-712C-47DD-8C57-01EB6A4E212A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2676CD1F-712C-47DD-8C57-01EB6A4E212A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2676CD1F-712C-47DD-8C57-01EB6A4E212A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2676CD1F-712C-47DD-8C57-01EB6A4E212A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F531077-0950-4547-A844-173BF77AACF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F531077-0950-4547-A844-173BF77AACF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F531077-0950-4547-A844-173BF77AACF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F531077-0950-4547-A844-173BF77AACF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C05F887-0C0E-4E03-ADDB-EBF6C2928229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C05F887-0C0E-4E03-ADDB-EBF6C2928229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C05F887-0C0E-4E03-ADDB-EBF6C2928229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C05F887-0C0E-4E03-ADDB-EBF6C2928229}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C04BC97A-CAD6-4AA6-8FAA-77427C09D271}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+D:\Projects\ZandbakUnmanaged\SurfMarket30Integrator\SURF.Surfmarket30.MockupData\bin\Release\SURF.Surfmarket30.MockupData.dll
+D:\Projects\ZandbakUnmanaged\SurfMarket30Integrator\SURF.Surfmarket30.MockupData\bin\Release\SURF.Surfmarket30.MockupData.pdb
+D:\Projects\ZandbakUnmanaged\SurfMarket30Integrator\SURF.Surfmarket30.MockupData\bin\Release\Newtonsoft.Json.dll
+D:\Projects\ZandbakUnmanaged\SurfMarket30Integrator\SURF.Surfmarket30.MockupData\bin\Release\SURF.Surfmarket30.Shared.dll
+D:\Projects\ZandbakUnmanaged\SurfMarket30Integrator\SURF.Surfmarket30.MockupData\bin\Release\SURF.Surfmarket30.Shared.pdb
+D:\Projects\ZandbakUnmanaged\SurfMarket30Integrator\SURF.Surfmarket30.MockupData\bin\Release\Newtonsoft.Json.xml
+D:\Projects\ZandbakUnmanaged\SurfMarket30Integrator\SURF.Surfmarket30.MockupData\obj\Release\SURF.Surfmarket30.MockupData.csprojResolveAssemblyReference.cache
+D:\Projects\ZandbakUnmanaged\SurfMarket30Integrator\SURF.Surfmarket30.MockupData\obj\Release\SURF.Surfmarket30.MockupData.csproj.CoreCompileInputs.cache
+D:\Projects\ZandbakUnmanaged\SurfMarket30Integrator\SURF.Surfmarket30.MockupData\obj\Release\SURF.Surfmarket30.MockupData.dll
+D:\Projects\ZandbakUnmanaged\SurfMarket30Integrator\SURF.Surfmarket30.MockupData\obj\Release\SURF.Surfmarket30.MockupData.pdb
